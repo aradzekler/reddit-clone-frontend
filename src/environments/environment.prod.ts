@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  baseUrl: 'https://reddit-clone-cloud.herokuapp.com/'
 };
